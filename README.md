@@ -3,6 +3,7 @@
 
 基于creat-react-app + antd + react-router + axios搭建的后台界面框架
 已经将react几个常用的整合了
+有基本的menu 可以直接做后台开发
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
