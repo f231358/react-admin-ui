@@ -1,3 +1,10 @@
+
+## react-admin-ui
+
+基于creat-react-app + antd + react-router + axios搭建的后台界面框架
+已经将react几个常用的整合了
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
