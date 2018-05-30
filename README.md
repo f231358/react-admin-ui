@@ -2,8 +2,13 @@
 ## react-admin-ui
 
 基于creat-react-app + antd + react-router + axios搭建的后台界面框架
-已经将react几个常用的整合了
-有基本的menu 可以直接做后台开发
+适用于新项目开始开发
+1.已经写好了menu，多级菜单，同时配置好了react-router，写好了基本的路由规则 
+2.用ant-breadcrumb完成了header的路径导航，单独做了组件Header.jsx（之后要改为传参数更改路径或跟随menu更改路径）
+3.做好了userCard
+4.ajax用封装axios，并且支持跨域（跨域的方法注释了，在AjaxHelp.js中）
+界面如下
+![](img_url)
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
