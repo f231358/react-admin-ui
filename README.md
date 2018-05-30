@@ -121,8 +121,10 @@ react-admin-ui/
 
 ## The End
 除了快速搭建后台，其他作用就是给拿到react全家桶一脸懵逼的萌新打个样。
+
 后期会不断更新，star高的话就上个移动版的
 
+有问题欢迎在[本人blog](http://520bamboo.club/)留言（blog在建设中）
 
 
 
